@@ -1,2 +1,3 @@
-# hackerrank
-hackerrank dev/test framework
+# meriquizmas
+Includes the following:
+- hackerrank dev/test framework
